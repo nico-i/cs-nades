@@ -6,7 +6,7 @@
 
 ![Aim](./aim.jpg)
 
-2. Aim at this spot on the wall.
+2. Aim at the corner of this building.
 3. Standing left click jump throw.
 
 ![T Result](./result_t.jpg)
