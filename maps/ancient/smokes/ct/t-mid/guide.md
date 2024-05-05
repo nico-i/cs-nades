@@ -6,7 +6,10 @@
 
 ![Aim](./aim.jpg)
 
-2. Aim so that the -1 of the smoke reticle is aligned with the top-left nipple of this wall.
-3. Standing left click jump throw.
+2. Aim so that the vertical line of the smoke reticle lines up this this corner of the building and aim for the top of the building.
+
+![Aim](./release.jpg)
+
+3. Running left click jump throw (release as soon as you reach the bottom of the brick you aimed at previously).
 
 ![Result](./result.jpg)
