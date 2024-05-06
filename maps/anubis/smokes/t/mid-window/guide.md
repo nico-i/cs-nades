@@ -1,0 +1,12 @@
+# Mid Window Smoke Anubis
+
+![Spot](./pos.jpg)
+
+1. Stand in the left corner of this door frame.
+
+![Aim](./aim.jpg)
+
+2. Aim at the corner of this building.
+3. Standing left click jump throw.
+
+![Result](./result.jpg)
