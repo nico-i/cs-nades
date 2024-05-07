@@ -9,4 +9,4 @@
 2. Aim at the end of this pole in the wall.
 3. Standing left click jump throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)

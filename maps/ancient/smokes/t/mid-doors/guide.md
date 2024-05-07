@@ -9,4 +9,4 @@
 2. Aim so that the -2 of the smoke reticle is aligned with the fork of this tree.
 3. Forward left click jump throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)

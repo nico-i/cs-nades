@@ -9,4 +9,4 @@
 2. Aim at the center of this decorative stone row.
 3. Standing left click jump throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)

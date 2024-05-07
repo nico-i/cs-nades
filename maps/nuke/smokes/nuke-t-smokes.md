@@ -67,6 +67,6 @@ Aim crosshair at this screw while looking down.
 3. Aim at the first bolt to the right
 4. Standing jump throw
 
-![Result](./t/heaven/result.jpg)
+![Result](./t/heaven/res.jpg)
 
 Result

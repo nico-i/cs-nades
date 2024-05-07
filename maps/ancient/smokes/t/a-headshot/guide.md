@@ -9,5 +9,5 @@
 2. Aim for this hole in the plant leaf WHILE CROUCHING.
 3. Crouching left click jump throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)
 

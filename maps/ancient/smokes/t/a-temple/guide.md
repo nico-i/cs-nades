@@ -9,4 +9,4 @@
 2. Aim for this hole in the plant leaf.
 3. Standing left click jump throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)

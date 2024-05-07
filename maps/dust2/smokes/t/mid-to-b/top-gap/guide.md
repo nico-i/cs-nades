@@ -9,4 +9,4 @@
 2. Aim at this spot in the wall.
 3. Standing left click throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)

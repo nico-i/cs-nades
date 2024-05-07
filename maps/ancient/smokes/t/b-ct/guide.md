@@ -9,4 +9,4 @@
 1. Aim at the top center of this engraving on the wall.
 2. Standing left click jump throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)

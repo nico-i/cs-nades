@@ -12,4 +12,4 @@
 3. Aim your smoke crosshair so that the right angle between the crosshair and the -1 step are to the left of the little cube in the blue wood.
 4. Left click throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)

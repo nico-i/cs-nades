@@ -9,4 +9,4 @@
 2. Aim at the point where these two buildings meet.
 3. Standing left click jump throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)

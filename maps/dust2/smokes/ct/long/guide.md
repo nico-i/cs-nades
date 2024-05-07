@@ -9,4 +9,4 @@
 2. Aim at the top left corner of this imaginary rectangle.
 3. Left click throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)

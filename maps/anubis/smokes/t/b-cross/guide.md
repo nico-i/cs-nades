@@ -13,4 +13,4 @@
 3. Aim at the bottom line above the decorative stone row, while the vertical axis of the smoke reticle is aligned with the center of the stone row.
 4. Standing left and right click jump throw.
 
-![Result](./result.jpg)
+![Result](./res.jpg)
