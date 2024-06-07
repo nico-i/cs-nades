@@ -6,7 +6,7 @@
 
 ![Aim](./aim.jpg)
 
-2. Aim at the bottom left corner of this steel beam.
-3. Forward left click jump throw.
+2. Aim the middle of the last roof section.
+3. Left click throw.
 
 ![Result](./res.jpg)

@@ -9,4 +9,4 @@
 2. Aim at the corner where the building and the beam intersect.
 3. Standing left click throw.
 
-![Result](./res.jpg)
+![Result](./res.jpg)   
